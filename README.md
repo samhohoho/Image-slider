@@ -1,3 +1,3 @@
 # Image-slider
 
-Try it out: https://angry-easley-160e3a.netlify.app/
+Try it out: https://elated-easley-84f7bb.netlify.app/
